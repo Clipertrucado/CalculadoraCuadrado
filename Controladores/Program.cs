@@ -9,7 +9,7 @@ namespace CalcularCuadradro;
 /// Clase principal del programa
 /// 241023 - sav
 /// </summary>
-class Program
+class Program 
 {
     /// <summary>
     /// Metodo de entrada a la aplicación
